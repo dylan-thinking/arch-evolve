@@ -4,6 +4,8 @@
 
 ArchEvolve 是一个基于 Astro 与 Starlight 构建的静态技术知识站。
 
+在线访问：[https://arch-evolve.pages.dev](https://arch-evolve.pages.dev)
+
 ## 本地运行
 
 ```bash
